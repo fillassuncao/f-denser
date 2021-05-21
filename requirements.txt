@@ -1,4 +1,4 @@
-tensorflow==1.15.4
+tensorflow==2.5.0
 numpy
 scikit-learn
 keras==2.2.0
